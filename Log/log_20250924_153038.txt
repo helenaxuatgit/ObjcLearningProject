@@ -1,0 +1,27 @@
+2025-09-24 15:30:38.579 ObjcLearning[30015:1255231] Hello, my name is Alex. I am 20 years old and I work as a Student.
+2025-09-24 15:30:38.579 ObjcLearning[30015:1255231] Happy birthday, Alex! You are now 21 years old.
+2025-09-24 15:30:38.579 ObjcLearning[30015:1255231] Alex has changed occupation to Software Engineer.
+2025-09-24 15:30:38.579 ObjcLearning[30015:1255231] Hello, my name is Alex. I am 21 years old and I work as a Software Engineer.
+2025-09-24 15:30:38.579 ObjcLearning[30015:1255231] Alex now has a new pet: Buddy!
+2025-09-24 15:30:38.579 ObjcLearning[30015:1255231] Alex now has a new pet: Whiskers!
+2025-09-24 15:30:38.579 ObjcLearning[30015:1255231] Alex now has a new pet: Tweety!
+2025-09-24 15:30:38.579 ObjcLearning[30015:1255231] Alex's pets:
+2025-09-24 15:30:38.579 ObjcLearning[30015:1255231] - Buddy the Dog (Hunger: 0, Cleanliness: 0)
+2025-09-24 15:30:38.579 ObjcLearning[30015:1255231] - Whiskers the Cat (Hunger: 0, Cleanliness: 0)
+2025-09-24 15:30:38.579 ObjcLearning[30015:1255231] - Tweety the Bird (Hunger: 0, Cleanliness: 0)
+2025-09-24 15:30:38.579 ObjcLearning[30015:1255231] Alex played with Buddy.
+2025-09-24 15:30:38.579 ObjcLearning[30015:1255231] Alex played with Whiskers.
+2025-09-24 15:30:38.579 ObjcLearning[30015:1255231] Alex played with Tweety.
+2025-09-24 15:30:38.579 ObjcLearning[30015:1255231] Alex fed Buddy.
+2025-09-24 15:30:38.579 ObjcLearning[30015:1255231] Alex cleaned Whiskers.
+2025-09-24 15:30:38.579 ObjcLearning[30015:1255231] Alex fed Tweety.
+2025-09-24 15:30:38.579 ObjcLearning[30015:1255231] Buddy barks! Woof!
+2025-09-24 15:30:38.579 ObjcLearning[30015:1255231] Whiskers meows! Meow!
+2025-09-24 15:30:38.579 ObjcLearning[30015:1255231] Tweety chirps! Tweet!
+2025-09-24 15:30:38.579 ObjcLearning[30015:1255231] Buddy is fetching the ball!
+2025-09-24 15:30:38.579 ObjcLearning[30015:1255231] Whiskers is scratching the furniture!
+2025-09-24 15:30:38.579 ObjcLearning[30015:1255231] Tweety is flying around!
+2025-09-24 15:30:38.579 ObjcLearning[30015:1255231] Alex's pets:
+2025-09-24 15:30:38.579 ObjcLearning[30015:1255231] - Buddy the Dog (Hunger: 1, Cleanliness: 2)
+2025-09-24 15:30:38.579 ObjcLearning[30015:1255231] - Whiskers the Cat (Hunger: 2, Cleanliness: 1)
+2025-09-24 15:30:38.579 ObjcLearning[30015:1255231] - Tweety the Bird (Hunger: 1, Cleanliness: 2)
