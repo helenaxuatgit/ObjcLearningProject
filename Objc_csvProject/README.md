@@ -11,10 +11,10 @@ This is a minimal Objective-C console application that prints "Hello, World" to 
 2. Compile the code using clang:
    
    ```sh
-   clang -framework Foundation main.m -o HelloWorld
+   clang -framework Foundation main.m -o objc_csvProject
    ```
 3. Run the executable:
    
    ```sh
-   ./HelloWorld
+   ./objc_csvProject
    ```
