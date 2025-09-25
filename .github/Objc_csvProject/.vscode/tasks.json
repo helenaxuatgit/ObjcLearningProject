@@ -1,0 +1,19 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Build Objective-C HelloWorld",
+			"type": "shell",
+			"command": "clang",
+			"args": [
+				"-framework",
+				"Foundation",
+				"main.m",
+				"-o",
+				"HelloWorld"
+			],
+			"problemMatcher": [],
+			"group": "build"
+		}
+	]
+}

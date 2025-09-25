@@ -1,0 +1,50 @@
+2025-09-24 16:14:42.079 ObjcLearning[33140:1289344] [INFO] --- Program started ---
+2025-09-24 16:14:42.079 ObjcLearning[33140:1289344] [INFO] Hello, my name is Alex. I am 20 years old and I work as a Student.
+2025-09-24 16:14:42.079 ObjcLearning[33140:1289344] [INFO] Happy birthday, Alex! You are now 21 years old.
+2025-09-24 16:14:42.079 ObjcLearning[33140:1289344] [INFO] Alex has changed occupation to Software Engineer.
+2025-09-24 16:14:42.079 ObjcLearning[33140:1289344] [INFO] Hello, my name is Alex. I am 21 years old and I work as a Software Engineer.
+2025-09-24 16:14:42.079 ObjcLearning[33140:1289344] [INFO] --- Program finished ---
+2025-09-24 16:14:42.079 ObjcLearning[33140:1289344] [INFO] Alex now has a new pet: Buddy!
+2025-09-24 16:14:42.079 ObjcLearning[33140:1289344] [INFO] Alex now has a new pet: Whiskers!
+2025-09-24 16:14:42.079 ObjcLearning[33140:1289344] [INFO] Alex now has a new pet: Tweety!
+2025-09-24 16:14:42.079 ObjcLearning[33140:1289344] [INFO] Alex's pets:
+2025-09-24 16:14:42.079 ObjcLearning[33140:1289344] [INFO] - Buddy the Dog (Hunger: 0, Cleanliness: 0)
+2025-09-24 16:14:42.079 ObjcLearning[33140:1289344] [INFO] - Whiskers the Cat (Hunger: 0, Cleanliness: 0)
+2025-09-24 16:14:42.079 ObjcLearning[33140:1289344] [INFO] - Tweety the Bird (Hunger: 0, Cleanliness: 0)
+2025-09-24 16:14:42.079 ObjcLearning[33140:1289344] [DEBUG] Buddy played. Hunger: 1, Cleanliness: 1
+2025-09-24 16:14:42.079 ObjcLearning[33140:1289344] [DEBUG] Alex played with Buddy.
+2025-09-24 16:14:42.079 ObjcLearning[33140:1289344] [DEBUG] Whiskers played. Hunger: 1, Cleanliness: 1
+2025-09-24 16:14:42.079 ObjcLearning[33140:1289344] [DEBUG] Alex played with Whiskers.
+2025-09-24 16:14:42.079 ObjcLearning[33140:1289344] [DEBUG] Tweety played. Hunger: 1, Cleanliness: 1
+2025-09-24 16:14:42.079 ObjcLearning[33140:1289344] [DEBUG] Alex played with Tweety.
+2025-09-24 16:14:42.079 ObjcLearning[33140:1289344] [INFO] Buddy has been fed. Hunger level is now 0.
+2025-09-24 16:14:42.079 ObjcLearning[33140:1289344] [INFO] Alex fed Buddy.
+2025-09-24 16:14:42.079 ObjcLearning[33140:1289344] [INFO] Whiskers has been cleaned.
+2025-09-24 16:14:42.079 ObjcLearning[33140:1289344] [INFO] Alex cleaned Whiskers.
+2025-09-24 16:14:42.079 ObjcLearning[33140:1289344] [INFO] Tweety has been fed. Hunger level is now 0.
+2025-09-24 16:14:42.079 ObjcLearning[33140:1289344] [INFO] Alex fed Tweety.
+2025-09-24 16:14:42.079 ObjcLearning[33140:1289344] [ERROR] Buddy is already full and cannot be fed!
+2025-09-24 16:14:42.079 ObjcLearning[33140:1289344] [INFO] Alex fed Buddy.
+2025-09-24 16:14:42.079 ObjcLearning[33140:1289344] [ERROR] Buddy is already full and cannot be fed!
+2025-09-24 16:14:42.079 ObjcLearning[33140:1289344] [INFO] Alex fed Buddy.
+2025-09-24 16:14:42.079 ObjcLearning[33140:1289344] [ERROR] Buddy is already full and cannot be fed!
+2025-09-24 16:14:42.079 ObjcLearning[33140:1289344] [INFO] Alex fed Buddy.
+2025-09-24 16:14:42.079 ObjcLearning[33140:1289344] Buddy barks! Woof!
+2025-09-24 16:14:42.079 ObjcLearning[33140:1289344] [INFO] Buddy barks! Woof!
+2025-09-24 16:14:42.079 ObjcLearning[33140:1289344] Whiskers meows! Meow!
+2025-09-24 16:14:42.080 ObjcLearning[33140:1289344] [INFO] Whiskers meows! Meow!
+2025-09-24 16:14:42.080 ObjcLearning[33140:1289344] Tweety chirps! Tweet!
+2025-09-24 16:14:42.080 ObjcLearning[33140:1289344] [INFO] Tweety chirps! Tweet!
+2025-09-24 16:14:42.080 ObjcLearning[33140:1289344] Buddy is fetching the ball!
+2025-09-24 16:14:42.080 ObjcLearning[33140:1289344] [DEBUG] Buddy played. Hunger: 1, Cleanliness: 2
+2025-09-24 16:14:42.080 ObjcLearning[33140:1289344] [DEBUG] Buddy is fetching the ball!
+2025-09-24 16:14:42.080 ObjcLearning[33140:1289344] Whiskers is scratching the furniture!
+2025-09-24 16:14:42.080 ObjcLearning[33140:1289344] [DEBUG] Whiskers played. Hunger: 2, Cleanliness: 1
+2025-09-24 16:14:42.080 ObjcLearning[33140:1289344] [DEBUG] Whiskers is scratching the furniture!
+2025-09-24 16:14:42.080 ObjcLearning[33140:1289344] Tweety is flying around!
+2025-09-24 16:14:42.080 ObjcLearning[33140:1289344] [DEBUG] Tweety played. Hunger: 1, Cleanliness: 2
+2025-09-24 16:14:42.080 ObjcLearning[33140:1289344] [DEBUG] Tweety is flying around!
+2025-09-24 16:14:42.080 ObjcLearning[33140:1289344] [INFO] Alex's pets:
+2025-09-24 16:14:42.080 ObjcLearning[33140:1289344] [INFO] - Buddy the Dog (Hunger: 1, Cleanliness: 2)
+2025-09-24 16:14:42.080 ObjcLearning[33140:1289344] [INFO] - Whiskers the Cat (Hunger: 2, Cleanliness: 1)
+2025-09-24 16:14:42.080 ObjcLearning[33140:1289344] [INFO] - Tweety the Bird (Hunger: 1, Cleanliness: 2)
